@@ -7,7 +7,7 @@ About
 
 Most popular front-end framework Bootstrap’s non responsive version. You can use this framework for developing standart structured web pages. This framework contains all features of boostrap but responsive features.
 
-Actually i don’t work hard for this software. I’m just clean @media queries and add some classes. I just developed this software for practicality. You don’t need to edit Bootstrap anymore. just download the software.
+Actually i didn’t work hard for this software. I’m just clean @media queries and add some classes. I just developed this software for practicality. You don’t need to edit Bootstrap anymore. Just download this software.
 
 How to use ?
 
