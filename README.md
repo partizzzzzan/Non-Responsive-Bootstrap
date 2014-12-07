@@ -11,7 +11,7 @@ Actually i didn’t work hard for this software. I’m just clean @media queries
 
 How to use ?
 
-Just visit http://bootstrap.com
+Just visit http://nonresponsivebootstrap.com
 
 Lisence
 
