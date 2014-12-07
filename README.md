@@ -11,31 +11,7 @@ Actually i didn’t work hard for this software. I’m just clean @media queries
 
 How to use ?
 
-Change hyperlink referance of boostrap.css file with nonresponsive-bootstrap.css 
-
-<link href="css/nonresponsive-bootstrap.css" rel="stylesheet">
-
-You can use grid system just like regular boostrap. It has only one difference. You must add main container (main-cnt-?) as parent of .container calss.
-
-Notice: In this framework col-xs, col-sm, col-md, col-lg classes are the same.
-
-Main Container Classes
-
-.main-cnt-xs = 480px
-.main-cnt-sm = 768px
-.main-cnt-md = 992px
-.main-cnt-lg = 1200px
-
-Example
-
-<div class=”main-cnt-md”>
-	<div class=”container”>
-		<div class=”row”>
-			<div class=”col-md-12”>
-			</div>
-		</div>
-	</div>
-</div>
+Just visit http://bootstrap.com
 
 Lisence
 
